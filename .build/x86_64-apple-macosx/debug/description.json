@@ -1,0 +1,25 @@
+{
+  "allExecutables" : [
+
+  ],
+  "builtTestProducts" : [
+    {
+      "packageName" : "SwiftyChrono",
+      "productName" : "SwiftyChronoPackageTests",
+      "testBinary" : "\/Users\/harrisa\/dev\/apps\/b.mobbing\/chrono\/SwiftyChrono\/.build\/x86_64-apple-macosx\/debug\/SwiftyChronoPackageTests.xctest\/Contents\/MacOS\/SwiftyChronoPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "rootExecutables" : [
+
+  ],
+  "swiftTargetMap" : {
+    "C.SwiftyChrono-debug.module" : "SwiftyChrono",
+    "C.SwiftyChronoTests-debug.module" : "SwiftyChronoTests"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

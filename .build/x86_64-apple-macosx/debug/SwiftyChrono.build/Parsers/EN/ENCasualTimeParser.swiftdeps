@@ -1,0 +1,228 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ENCasualTimeParser"
+provides-nominal:
+- "12SwiftyChrono18ENCasualTimeParserC"
+provides-member:
+- ["12SwiftyChrono18ENCasualTimeParserC", ""]
+provides-dynamic-lookup:
+- "extract"
+- "pattern"
+depends-top-level:
+- !private "??"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "Date"
+- "ENCasualTimeParser"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "NSTextCheckingResult"
+- "OptionType"
+- !private "PATTERN"
+- "ParsedResult"
+- "Parser"
+- "String"
+- "StringLiteralType"
+- !private "timeMatch"
+- !private "~="
+depends-member:
+- !private ["SK", "afternoon"]
+- !private ["SK", "evening"]
+- !private ["SK", "morning"]
+- !private ["SK", "noon"]
+- !private ["s7CVarArgP", "isNotEmpty"]
+- !private ["s7CVarArgP", "string"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["Sl", "afternoon"]
+- !private ["Sl", "evening"]
+- !private ["Sl", "morning"]
+- !private ["Sl", "noon"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "afternoon"]
+- !private ["SL", "evening"]
+- !private ["SL", "morning"]
+- !private ["SL", "noon"]
+- !private ["12SwiftyChrono13ComponentUnitO", "hour"]
+- !private ["s28CustomDebugStringConvertibleP", "afternoon"]
+- !private ["s28CustomDebugStringConvertibleP", "evening"]
+- !private ["s28CustomDebugStringConvertibleP", "isNotEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "morning"]
+- !private ["s28CustomDebugStringConvertibleP", "noon"]
+- !private ["s28CustomDebugStringConvertibleP", "string"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "afternoon"]
+- !private ["s17CustomReflectableP", "evening"]
+- !private ["s17CustomReflectableP", "morning"]
+- !private ["s17CustomReflectableP", "noon"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "afternoon"]
+- !private ["s23CustomStringConvertibleP", "evening"]
+- !private ["s23CustomStringConvertibleP", "isNotEmpty"]
+- !private ["s23CustomStringConvertibleP", "morning"]
+- !private ["s23CustomStringConvertibleP", "noon"]
+- !private ["s23CustomStringConvertibleP", "string"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["Se", "afternoon"]
+- !private ["Se", "evening"]
+- !private ["Se", "morning"]
+- !private ["Se", "noon"]
+- !private ["Se", "subscript"]
+- !private ["SD", "subscript"]
+- ["12SwiftyChrono18ENCasualTimeParserC", "Date"]
+- ["12SwiftyChrono18ENCasualTimeParserC", "Int"]
+- ["12SwiftyChrono18ENCasualTimeParserC", "NSTextCheckingResult"]
+- ["12SwiftyChrono18ENCasualTimeParserC", "OptionType"]
+- !private ["12SwiftyChrono18ENCasualTimeParserC", "PATTERN"]
+- ["12SwiftyChrono18ENCasualTimeParserC", "ParsedResult"]
+- ["12SwiftyChrono18ENCasualTimeParserC", "String"]
+- ["12SwiftyChrono18ENCasualTimeParserC", "deinit"]
+- ["12SwiftyChrono18ENCasualTimeParserC", "extract"]
+- ["12SwiftyChrono18ENCasualTimeParserC", "init"]
+- !private ["12SwiftyChrono18ENCasualTimeParserC", "matchTextAndIndex"]
+- ["12SwiftyChrono18ENCasualTimeParserC", "pattern"]
+- !private ["12SwiftyChrono18ENCasualTimeParserC", "timeMatch"]
+- !private ["SE", "afternoon"]
+- !private ["SE", "evening"]
+- !private ["SE", "morning"]
+- !private ["SE", "noon"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "afternoon"]
+- !private ["SQ", "enCasualTimeParser"]
+- !private ["SQ", "evening"]
+- !private ["SQ", "hour"]
+- !private ["SQ", "isNotEmpty"]
+- !private ["SQ", "morning"]
+- !private ["SQ", "noon"]
+- !private ["SQ", "string"]
+- !private ["SQ", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["SH", "afternoon"]
+- !private ["SH", "enCasualTimeParser"]
+- !private ["SH", "evening"]
+- !private ["SH", "hour"]
+- !private ["SH", "isNotEmpty"]
+- !private ["SH", "morning"]
+- !private ["SH", "noon"]
+- !private ["SH", "string"]
+- !private ["SH", "subscript"]
+- !private ["SD5IndexV", "afternoon"]
+- !private ["SD5IndexV", "evening"]
+- !private ["SD5IndexV", "morning"]
+- !private ["SD5IndexV", "noon"]
+- !private ["So8NSCodingP", "isNotEmpty"]
+- !private ["So8NSCodingP", "string"]
+- !private ["So9NSCopyingP", "isNotEmpty"]
+- !private ["So9NSCopyingP", "string"]
+- !private ["So8NSObjectC", "isNotEmpty"]
+- !private ["So8NSObjectC", "string"]
+- !private ["So8NSObjectP", "isNotEmpty"]
+- !private ["So8NSObjectP", "string"]
+- !private ["So14NSSecureCodingP", "isNotEmpty"]
+- !private ["So14NSSecureCodingP", "string"]
+- !private ["So20NSTextCheckingResultC", "isNotEmpty"]
+- !private ["So20NSTextCheckingResultC", "string"]
+- !private ["12SwiftyChrono10OptionTypeO", "afternoon"]
+- ["12SwiftyChrono10OptionTypeO", "deinit"]
+- !private ["12SwiftyChrono10OptionTypeO", "evening"]
+- !private ["12SwiftyChrono10OptionTypeO", "morning"]
+- !private ["12SwiftyChrono10OptionTypeO", "noon"]
+- !private ["12SwiftyChrono16ParsedComponentsV", "imply"]
+- !private ["12SwiftyChrono12ParsedResultV", "init"]
+- !private ["12SwiftyChrono12ParsedResultV", "start"]
+- !private ["12SwiftyChrono12ParsedResultV", "tags"]
+- ["12SwiftyChrono6ParserC", "Date"]
+- ["12SwiftyChrono6ParserC", "Int"]
+- ["12SwiftyChrono6ParserC", "NSTextCheckingResult"]
+- ["12SwiftyChrono6ParserC", "OptionType"]
+- !private ["12SwiftyChrono6ParserC", "PATTERN"]
+- ["12SwiftyChrono6ParserC", "ParsedResult"]
+- ["12SwiftyChrono6ParserC", "String"]
+- ["12SwiftyChrono6ParserC", ""]
+- ["12SwiftyChrono6ParserC", "extract"]
+- ["12SwiftyChrono6ParserC", "init"]
+- !private ["12SwiftyChrono6ParserC", "matchTextAndIndex"]
+- ["12SwiftyChrono6ParserC", "pattern"]
+- !private ["12SwiftyChrono6ParserC", "timeMatch"]
+- !private ["Sk", "afternoon"]
+- !private ["Sk", "evening"]
+- !private ["Sk", "morning"]
+- !private ["Sk", "noon"]
+- !private ["Sn", "afternoon"]
+- !private ["Sn", "evening"]
+- !private ["Sn", "morning"]
+- !private ["Sn", "noon"]
+- !private ["SX", "afternoon"]
+- !private ["SX", "evening"]
+- !private ["SX", "morning"]
+- !private ["SX", "noon"]
+- !private ["SY", "afternoon"]
+- !private ["SY", "evening"]
+- !private ["SY", "morning"]
+- !private ["SY", "noon"]
+- !private ["ST", "afternoon"]
+- !private ["ST", "evening"]
+- !private ["ST", "morning"]
+- !private ["ST", "noon"]
+- !private ["ST", "subscript"]
+- !private ["12SwiftyChrono7TagUnitO", "deinit"]
+- !private ["12SwiftyChrono7TagUnitO", "enCasualTimeParser"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isNotEmpty"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "string"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isNotEmpty"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "string"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "12SwiftyChrono13ComponentUnitO"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SD"
+- "12SwiftyChrono18ENCasualTimeParserC"
+- !private "SE"
+- !private "SQ"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "SH"
+- !private "SD5IndexV"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So20NSTextCheckingResultC"
+- "12SwiftyChrono10OptionTypeO"
+- !private "12SwiftyChrono16ParsedComponentsV"
+- !private "12SwiftyChrono12ParsedResultV"
+- "12SwiftyChrono6ParserC"
+- !private "Sk"
+- !private "Sn"
+- !private "SX"
+- !private "SY"
+- !private "ST"
+- !private "12SwiftyChrono7TagUnitO"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "18206791cd3920bfc75cf7d457e00727"

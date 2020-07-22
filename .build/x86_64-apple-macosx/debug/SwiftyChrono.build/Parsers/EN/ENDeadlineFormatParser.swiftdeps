@@ -1,0 +1,396 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ENDeadlineFormatParser"
+provides-nominal:
+- "12SwiftyChrono22ENDeadlineFormatParserC"
+provides-member:
+- ["12SwiftyChrono22ENDeadlineFormatParserC", ""]
+provides-dynamic-lookup:
+- "extract"
+- "pattern"
+depends-top-level:
+- !private "!="
+- !private "*"
+- "+"
+- !private "/"
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "Date"
+- "ENDeadlineFormatParser"
+- !private "EN_INTEGER_WORDS"
+- "EN_INTEGER_WORDS_PATTERN"
+- "FloatLiteralType"
+- !private "HALF"
+- !private "HALF_SECOND_IN_MS"
+- "Int"
+- "IntegerLiteralType"
+- !private "NSRegularExpression"
+- "NSTextCheckingResult"
+- "OptionType"
+- !private "PATTERN"
+- "ParsedResult"
+- "Parser"
+- !private "STRICT_PATTERN"
+- "String"
+- "StringLiteralType"
+- "TernaryPrecedence"
+- "UnicodeScalarType"
+- !private "||"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["SK", "lowercased"]
+- !private ["Sz", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isMatch"]
+- !private ["s7CVarArgP", "lowercased"]
+- !private ["s7CVarArgP", "string"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["Sl", "lowercased"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "added"]
+- !private ["SL", "day"]
+- !private ["SL", "hour"]
+- !private ["SL", "init"]
+- !private ["SL", "lowercased"]
+- !private ["SL", "minute"]
+- !private ["SL", "month"]
+- !private ["SL", "numberOf"]
+- !private ["SL", "second"]
+- !private ["SL", "year"]
+- !private ["10Foundation8CalendarV9ComponentO", "day"]
+- !private ["10Foundation8CalendarV9ComponentO", "hour"]
+- !private ["10Foundation8CalendarV9ComponentO", "minute"]
+- !private ["10Foundation8CalendarV9ComponentO", "month"]
+- !private ["10Foundation8CalendarV9ComponentO", "nanosecond"]
+- !private ["10Foundation8CalendarV9ComponentO", "second"]
+- !private ["10Foundation8CalendarV9ComponentO", "year"]
+- !private ["12SwiftyChrono13ComponentUnitO", "day"]
+- !private ["12SwiftyChrono13ComponentUnitO", "hour"]
+- !private ["12SwiftyChrono13ComponentUnitO", "minute"]
+- !private ["12SwiftyChrono13ComponentUnitO", "month"]
+- !private ["12SwiftyChrono13ComponentUnitO", "second"]
+- !private ["12SwiftyChrono13ComponentUnitO", "year"]
+- !private ["s28CustomDebugStringConvertibleP", "added"]
+- !private ["s28CustomDebugStringConvertibleP", "day"]
+- !private ["s28CustomDebugStringConvertibleP", "hour"]
+- !private ["s28CustomDebugStringConvertibleP", "isMatch"]
+- !private ["s28CustomDebugStringConvertibleP", "lowercased"]
+- !private ["s28CustomDebugStringConvertibleP", "minute"]
+- !private ["s28CustomDebugStringConvertibleP", "month"]
+- !private ["s28CustomDebugStringConvertibleP", "numberOf"]
+- !private ["s28CustomDebugStringConvertibleP", "second"]
+- !private ["s28CustomDebugStringConvertibleP", "string"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "year"]
+- !private ["s17CustomReflectableP", "added"]
+- !private ["s17CustomReflectableP", "day"]
+- !private ["s17CustomReflectableP", "hour"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "lowercased"]
+- !private ["s17CustomReflectableP", "minute"]
+- !private ["s17CustomReflectableP", "month"]
+- !private ["s17CustomReflectableP", "numberOf"]
+- !private ["s17CustomReflectableP", "second"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "year"]
+- !private ["s23CustomStringConvertibleP", "added"]
+- ["s23CustomStringConvertibleP", "appendInterpolation"]
+- ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "day"]
+- !private ["s23CustomStringConvertibleP", "hour"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isMatch"]
+- !private ["s23CustomStringConvertibleP", "lowercased"]
+- !private ["s23CustomStringConvertibleP", "minute"]
+- !private ["s23CustomStringConvertibleP", "month"]
+- !private ["s23CustomStringConvertibleP", "numberOf"]
+- !private ["s23CustomStringConvertibleP", "second"]
+- !private ["s23CustomStringConvertibleP", "string"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "year"]
+- !private ["10Foundation4DateV", "added"]
+- !private ["10Foundation4DateV", "day"]
+- !private ["10Foundation4DateV", "hour"]
+- !private ["10Foundation4DateV", "minute"]
+- !private ["10Foundation4DateV", "month"]
+- !private ["10Foundation4DateV", "numberOf"]
+- !private ["10Foundation4DateV", "second"]
+- !private ["10Foundation4DateV", "year"]
+- !private ["Se", "added"]
+- !private ["Se", "day"]
+- !private ["Se", "hour"]
+- !private ["Se", "init"]
+- !private ["Se", "lowercased"]
+- !private ["Se", "minute"]
+- !private ["Se", "month"]
+- !private ["Se", "numberOf"]
+- !private ["Se", "second"]
+- !private ["Se", "subscript"]
+- !private ["Se", "year"]
+- ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "subscript"]
+- ["12SwiftyChrono22ENDeadlineFormatParserC", "Date"]
+- !private ["12SwiftyChrono22ENDeadlineFormatParserC", "EN_INTEGER_WORDS"]
+- !private ["12SwiftyChrono22ENDeadlineFormatParserC", "HALF"]
+- !private ["12SwiftyChrono22ENDeadlineFormatParserC", "HALF_SECOND_IN_MS"]
+- ["12SwiftyChrono22ENDeadlineFormatParserC", "Int"]
+- !private ["12SwiftyChrono22ENDeadlineFormatParserC", "NSRegularExpression"]
+- ["12SwiftyChrono22ENDeadlineFormatParserC", "NSTextCheckingResult"]
+- ["12SwiftyChrono22ENDeadlineFormatParserC", "OptionType"]
+- !private ["12SwiftyChrono22ENDeadlineFormatParserC", "PATTERN"]
+- ["12SwiftyChrono22ENDeadlineFormatParserC", "ParsedResult"]
+- !private ["12SwiftyChrono22ENDeadlineFormatParserC", "STRICT_PATTERN"]
+- ["12SwiftyChrono22ENDeadlineFormatParserC", "String"]
+- ["12SwiftyChrono22ENDeadlineFormatParserC", "deinit"]
+- ["12SwiftyChrono22ENDeadlineFormatParserC", "extract"]
+- ["12SwiftyChrono22ENDeadlineFormatParserC", "init"]
+- !private ["12SwiftyChrono22ENDeadlineFormatParserC", "matchTextAndIndex"]
+- ["12SwiftyChrono22ENDeadlineFormatParserC", "pattern"]
+- !private ["12SwiftyChrono22ENDeadlineFormatParserC", "strictMode"]
+- !private ["SE", "added"]
+- !private ["SE", "day"]
+- !private ["SE", "hour"]
+- !private ["SE", "init"]
+- !private ["SE", "lowercased"]
+- !private ["SE", "minute"]
+- !private ["SE", "month"]
+- !private ["SE", "numberOf"]
+- !private ["SE", "second"]
+- !private ["SE", "subscript"]
+- !private ["SE", "year"]
+- !private ["SQ", "added"]
+- !private ["SQ", "day"]
+- !private ["SQ", "enDeadlineFormatParser"]
+- !private ["SQ", "hour"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isMatch"]
+- !private ["SQ", "lowercased"]
+- !private ["SQ", "minute"]
+- !private ["SQ", "month"]
+- !private ["SQ", "nanosecond"]
+- !private ["SQ", "numberOf"]
+- !private ["SQ", "second"]
+- !private ["SQ", "string"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "year"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "lowercased"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s32ExpressibleByStringInterpolationP", "lowercased"]
+- !private ["s26ExpressibleByStringLiteralP", "lowercased"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "lowercased"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SH", "added"]
+- !private ["SH", "day"]
+- !private ["SH", "enDeadlineFormatParser"]
+- !private ["SH", "hour"]
+- !private ["SH", "init"]
+- !private ["SH", "isMatch"]
+- !private ["SH", "lowercased"]
+- !private ["SH", "minute"]
+- !private ["SH", "month"]
+- !private ["SH", "nanosecond"]
+- !private ["SH", "numberOf"]
+- !private ["SH", "second"]
+- !private ["SH", "string"]
+- !private ["SH", "subscript"]
+- !private ["SH", "year"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "lowercased"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "lowercased"]
+- !private ["So8NSCodingP", "isMatch"]
+- !private ["So8NSCodingP", "lowercased"]
+- !private ["So8NSCodingP", "string"]
+- !private ["So9NSCopyingP", "isMatch"]
+- !private ["So9NSCopyingP", "lowercased"]
+- !private ["So9NSCopyingP", "string"]
+- !private ["So21NSItemProviderReadingP", "lowercased"]
+- !private ["So21NSItemProviderWritingP", "lowercased"]
+- !private ["So16NSMutableCopyingP", "lowercased"]
+- !private ["So8NSObjectC", "isMatch"]
+- !private ["So8NSObjectC", "lowercased"]
+- !private ["So8NSObjectC", "string"]
+- !private ["So8NSObjectP", "isMatch"]
+- !private ["So8NSObjectP", "lowercased"]
+- !private ["So8NSObjectP", "string"]
+- !private ["So19NSRegularExpressionC", "isMatch"]
+- !private ["So14NSSecureCodingP", "isMatch"]
+- !private ["So14NSSecureCodingP", "lowercased"]
+- !private ["So14NSSecureCodingP", "string"]
+- !private ["So8NSStringC", "lowercased"]
+- !private ["So20NSTextCheckingResultC", "string"]
+- !private ["Sj", "init"]
+- ["12SwiftyChrono10OptionTypeO", "deinit"]
+- !private ["12SwiftyChrono16ParsedComponentsV", "assign"]
+- !private ["12SwiftyChrono16ParsedComponentsV", "imply"]
+- !private ["12SwiftyChrono12ParsedResultV", "init"]
+- !private ["12SwiftyChrono12ParsedResultV", "start"]
+- !private ["12SwiftyChrono12ParsedResultV", "tags"]
+- ["12SwiftyChrono6ParserC", "Date"]
+- !private ["12SwiftyChrono6ParserC", "EN_INTEGER_WORDS"]
+- !private ["12SwiftyChrono6ParserC", "HALF"]
+- !private ["12SwiftyChrono6ParserC", "HALF_SECOND_IN_MS"]
+- ["12SwiftyChrono6ParserC", "Int"]
+- !private ["12SwiftyChrono6ParserC", "NSRegularExpression"]
+- ["12SwiftyChrono6ParserC", "NSTextCheckingResult"]
+- ["12SwiftyChrono6ParserC", "OptionType"]
+- !private ["12SwiftyChrono6ParserC", "PATTERN"]
+- ["12SwiftyChrono6ParserC", "ParsedResult"]
+- !private ["12SwiftyChrono6ParserC", "STRICT_PATTERN"]
+- ["12SwiftyChrono6ParserC", "String"]
+- ["12SwiftyChrono6ParserC", ""]
+- ["12SwiftyChrono6ParserC", "extract"]
+- ["12SwiftyChrono6ParserC", "init"]
+- !private ["12SwiftyChrono6ParserC", "matchTextAndIndex"]
+- ["12SwiftyChrono6ParserC", "pattern"]
+- !private ["12SwiftyChrono6ParserC", "strictMode"]
+- !private ["Sm", "lowercased"]
+- !private ["10Foundation20ReferenceConvertibleP", "added"]
+- !private ["10Foundation20ReferenceConvertibleP", "day"]
+- !private ["10Foundation20ReferenceConvertibleP", "hour"]
+- !private ["10Foundation20ReferenceConvertibleP", "minute"]
+- !private ["10Foundation20ReferenceConvertibleP", "month"]
+- !private ["10Foundation20ReferenceConvertibleP", "numberOf"]
+- !private ["10Foundation20ReferenceConvertibleP", "second"]
+- !private ["10Foundation20ReferenceConvertibleP", "year"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", "lowercased"]
+- !private ["ST", "subscript"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["SS", "lowercased"]
+- ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "lowercased"]
+- !private ["12SwiftyChrono7TagUnitO", "deinit"]
+- !private ["12SwiftyChrono7TagUnitO", "enDeadlineFormatParser"]
+- ["s16TextOutputStreamP", "appendInterpolation"]
+- ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "lowercased"]
+- !private ["s20TextOutputStreamableP", "lowercased"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "added"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "day"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "hour"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "lowercased"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "minute"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "month"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "numberOf"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "second"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "year"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "lowercased"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "lowercased"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "lowercased"]
+- !private ["s19_HasContiguousBytesP", "lowercased"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "lowercased"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isMatch"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lowercased"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "string"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isMatch"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lowercased"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "string"]
+- !private ["s21_ObjectiveCBridgeableP", "added"]
+- !private ["s21_ObjectiveCBridgeableP", "day"]
+- !private ["s21_ObjectiveCBridgeableP", "hour"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "lowercased"]
+- !private ["s21_ObjectiveCBridgeableP", "minute"]
+- !private ["s21_ObjectiveCBridgeableP", "month"]
+- !private ["s21_ObjectiveCBridgeableP", "numberOf"]
+- !private ["s21_ObjectiveCBridgeableP", "second"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "year"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "SK"
+- !private "Sz"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "10Foundation8CalendarV9ComponentO"
+- !private "12SwiftyChrono13ComponentUnitO"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- !private "Se"
+- "s26DefaultStringInterpolationV"
+- !private "SD"
+- "12SwiftyChrono22ENDeadlineFormatParserC"
+- !private "SE"
+- !private "SQ"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "SH"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So19NSRegularExpressionC"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "So20NSTextCheckingResultC"
+- !private "Sj"
+- "12SwiftyChrono10OptionTypeO"
+- !private "12SwiftyChrono16ParsedComponentsV"
+- !private "12SwiftyChrono12ParsedResultV"
+- "12SwiftyChrono6ParserC"
+- !private "Sm"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "SS"
+- "s27StringInterpolationProtocolP"
+- !private "Sy"
+- !private "12SwiftyChrono7TagUnitO"
+- "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "e5b9cdb1c544b6c02e9e33d2e8983a97"

@@ -1,0 +1,530 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "cal"
+- "utcCal"
+- "utcTimeZone"
+- "millisecondsToNanoSeconds"
+- "nanoSecondsToMilliseconds"
+provides-nominal:
+provides-member:
+- ["10Foundation4DateV", ""]
+- ["10Foundation4DateV", "setOrAdded"]
+- ["10Foundation4DateV", "isAfter"]
+- ["10Foundation4DateV", "year"]
+- ["10Foundation4DateV", "month"]
+- ["10Foundation4DateV", "day"]
+- ["10Foundation4DateV", "hour"]
+- ["10Foundation4DateV", "minute"]
+- ["10Foundation4DateV", "second"]
+- ["10Foundation4DateV", "millisecond"]
+- ["10Foundation4DateV", "nanosecond"]
+- ["10Foundation4DateV", "weekday"]
+- ["10Foundation4DateV", "utcYear"]
+- ["10Foundation4DateV", "utcMonth"]
+- ["10Foundation4DateV", "utcDay"]
+- ["10Foundation4DateV", "utcHour"]
+- ["10Foundation4DateV", "utcMinute"]
+- ["10Foundation4DateV", "utcSecond"]
+- ["10Foundation4DateV", "utcMillisecond"]
+- ["10Foundation4DateV", "utcNanosecond"]
+- ["10Foundation4DateV", "utcWeekday"]
+- ["10Foundation4DateV", "numberOf"]
+- ["10Foundation4DateV", "differenceOfTimeInterval"]
+- ["10Foundation4DateV", "utcOffset"]
+- ["10Foundation4DateV", "added"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "*"
+- !private "+"
+- !private "-"
+- !private "-="
+- !private "/"
+- !private ">"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "Calendar"
+- "Date"
+- !private "Double"
+- !private "FloatLiteralType"
+- "Int"
+- !private "IntegerLiteralType"
+- !private "NSTimeZone"
+- "Set"
+- "StringLiteralType"
+- "TernaryPrecedence"
+- "TimeInterval"
+- "TimeZone"
+- !private "assert"
+- "cal"
+- "millisecondsToNanoSeconds"
+- "nanoSecondsToMilliseconds"
+- !private "noneZeroComponents"
+- "utcCal"
+- "utcTimeZone"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["SK", "lowerBound"]
+- !private ["SK", "upperBound"]
+- !private ["SB", "init"]
+- !private ["Sz", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "local"]
+- ["10Foundation8CalendarV", "Component"]
+- !private ["10Foundation8CalendarV", "Identifier"]
+- !private ["10Foundation8CalendarV", "component"]
+- !private ["10Foundation8CalendarV", "current"]
+- !private ["10Foundation8CalendarV", "date"]
+- !private ["10Foundation8CalendarV", "init"]
+- !private ["10Foundation8CalendarV", "range"]
+- !private ["10Foundation8CalendarV", "timeZone"]
+- !private ["Sl", "lowerBound"]
+- !private ["Sl", "upperBound"]
+- !private ["SL", "Date"]
+- !private ["SL", "NSTimeZone"]
+- !private ["SL", "TimeInterval"]
+- !private ["SL", "added"]
+- !private ["SL", "assert"]
+- !private ["SL", "cal"]
+- !private ["SL", "day"]
+- !private ["SL", "hour"]
+- !private ["SL", "init"]
+- !private ["SL", "minute"]
+- !private ["SL", "month"]
+- !private ["SL", "nanoSecondsToMilliseconds"]
+- !private ["SL", "nanosecond"]
+- !private ["SL", "second"]
+- !private ["SL", "timeIntervalSince1970"]
+- !private ["SL", "utcCal"]
+- !private ["SL", "weekday"]
+- !private ["SL", "year"]
+- ["10Foundation8CalendarV9ComponentO", "day"]
+- ["10Foundation8CalendarV9ComponentO", "hour"]
+- ["10Foundation8CalendarV9ComponentO", "minute"]
+- ["10Foundation8CalendarV9ComponentO", "month"]
+- ["10Foundation8CalendarV9ComponentO", "nanosecond"]
+- ["10Foundation8CalendarV9ComponentO", "second"]
+- ["10Foundation8CalendarV9ComponentO", "weekday"]
+- ["10Foundation8CalendarV9ComponentO", "year"]
+- ["s28CustomDebugStringConvertibleP", "Component"]
+- !private ["s28CustomDebugStringConvertibleP", "Date"]
+- !private ["s28CustomDebugStringConvertibleP", "Identifier"]
+- !private ["s28CustomDebugStringConvertibleP", "NSTimeZone"]
+- !private ["s28CustomDebugStringConvertibleP", "TimeInterval"]
+- !private ["s28CustomDebugStringConvertibleP", "added"]
+- !private ["s28CustomDebugStringConvertibleP", "assert"]
+- !private ["s28CustomDebugStringConvertibleP", "cal"]
+- !private ["s28CustomDebugStringConvertibleP", "component"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "date"]
+- !private ["s28CustomDebugStringConvertibleP", "day"]
+- !private ["s28CustomDebugStringConvertibleP", "hour"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "local"]
+- !private ["s28CustomDebugStringConvertibleP", "lowerBound"]
+- !private ["s28CustomDebugStringConvertibleP", "minute"]
+- !private ["s28CustomDebugStringConvertibleP", "month"]
+- !private ["s28CustomDebugStringConvertibleP", "nanoSecondsToMilliseconds"]
+- !private ["s28CustomDebugStringConvertibleP", "nanosecond"]
+- !private ["s28CustomDebugStringConvertibleP", "range"]
+- !private ["s28CustomDebugStringConvertibleP", "second"]
+- !private ["s28CustomDebugStringConvertibleP", "secondsFromGMT"]
+- !private ["s28CustomDebugStringConvertibleP", "timeIntervalSince1970"]
+- !private ["s28CustomDebugStringConvertibleP", "timeZone"]
+- !private ["s28CustomDebugStringConvertibleP", "upperBound"]
+- !private ["s28CustomDebugStringConvertibleP", "utcCal"]
+- !private ["s28CustomDebugStringConvertibleP", "weekday"]
+- !private ["s28CustomDebugStringConvertibleP", "year"]
+- ["s17CustomReflectableP", "Component"]
+- !private ["s17CustomReflectableP", "Date"]
+- !private ["s17CustomReflectableP", "Identifier"]
+- !private ["s17CustomReflectableP", "NSTimeZone"]
+- !private ["s17CustomReflectableP", "TimeInterval"]
+- !private ["s17CustomReflectableP", "added"]
+- !private ["s17CustomReflectableP", "assert"]
+- !private ["s17CustomReflectableP", "cal"]
+- !private ["s17CustomReflectableP", "component"]
+- !private ["s17CustomReflectableP", "current"]
+- !private ["s17CustomReflectableP", "date"]
+- !private ["s17CustomReflectableP", "day"]
+- !private ["s17CustomReflectableP", "hour"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "lowerBound"]
+- !private ["s17CustomReflectableP", "minute"]
+- !private ["s17CustomReflectableP", "month"]
+- !private ["s17CustomReflectableP", "nanoSecondsToMilliseconds"]
+- !private ["s17CustomReflectableP", "nanosecond"]
+- !private ["s17CustomReflectableP", "range"]
+- !private ["s17CustomReflectableP", "second"]
+- !private ["s17CustomReflectableP", "secondsFromGMT"]
+- !private ["s17CustomReflectableP", "timeIntervalSince1970"]
+- !private ["s17CustomReflectableP", "timeZone"]
+- !private ["s17CustomReflectableP", "upperBound"]
+- !private ["s17CustomReflectableP", "utcCal"]
+- !private ["s17CustomReflectableP", "weekday"]
+- !private ["s17CustomReflectableP", "year"]
+- ["s23CustomStringConvertibleP", "Component"]
+- !private ["s23CustomStringConvertibleP", "Date"]
+- !private ["s23CustomStringConvertibleP", "Identifier"]
+- !private ["s23CustomStringConvertibleP", "NSTimeZone"]
+- !private ["s23CustomStringConvertibleP", "TimeInterval"]
+- !private ["s23CustomStringConvertibleP", "added"]
+- !private ["s23CustomStringConvertibleP", "assert"]
+- !private ["s23CustomStringConvertibleP", "cal"]
+- !private ["s23CustomStringConvertibleP", "component"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "date"]
+- !private ["s23CustomStringConvertibleP", "day"]
+- !private ["s23CustomStringConvertibleP", "hour"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "local"]
+- !private ["s23CustomStringConvertibleP", "lowerBound"]
+- !private ["s23CustomStringConvertibleP", "minute"]
+- !private ["s23CustomStringConvertibleP", "month"]
+- !private ["s23CustomStringConvertibleP", "nanoSecondsToMilliseconds"]
+- !private ["s23CustomStringConvertibleP", "nanosecond"]
+- !private ["s23CustomStringConvertibleP", "range"]
+- !private ["s23CustomStringConvertibleP", "second"]
+- !private ["s23CustomStringConvertibleP", "secondsFromGMT"]
+- !private ["s23CustomStringConvertibleP", "timeIntervalSince1970"]
+- !private ["s23CustomStringConvertibleP", "timeZone"]
+- !private ["s23CustomStringConvertibleP", "upperBound"]
+- !private ["s23CustomStringConvertibleP", "utcCal"]
+- !private ["s23CustomStringConvertibleP", "weekday"]
+- !private ["s23CustomStringConvertibleP", "year"]
+- ["10Foundation4DateV", "Bool"]
+- ["10Foundation4DateV", "Calendar"]
+- ["10Foundation4DateV", "Date"]
+- ["10Foundation4DateV", "Int"]
+- !private ["10Foundation4DateV", "NSTimeZone"]
+- ["10Foundation4DateV", "TimeInterval"]
+- ["10Foundation4DateV", "added"]
+- !private ["10Foundation4DateV", "assert"]
+- !private ["10Foundation4DateV", "cal"]
+- ["10Foundation4DateV", "day"]
+- ["10Foundation4DateV", "differenceOfTimeInterval"]
+- ["10Foundation4DateV", "hour"]
+- !private ["10Foundation4DateV", "init"]
+- ["10Foundation4DateV", "isAfter"]
+- ["10Foundation4DateV", "millisecond"]
+- ["10Foundation4DateV", "minute"]
+- ["10Foundation4DateV", "month"]
+- !private ["10Foundation4DateV", "nanoSecondsToMilliseconds"]
+- ["10Foundation4DateV", "nanosecond"]
+- ["10Foundation4DateV", "numberOf"]
+- ["10Foundation4DateV", "second"]
+- ["10Foundation4DateV", "setOrAdded"]
+- !private ["10Foundation4DateV", "timeIntervalSince1970"]
+- !private ["10Foundation4DateV", "utcCal"]
+- ["10Foundation4DateV", "utcDay"]
+- ["10Foundation4DateV", "utcHour"]
+- ["10Foundation4DateV", "utcMillisecond"]
+- ["10Foundation4DateV", "utcMinute"]
+- ["10Foundation4DateV", "utcMonth"]
+- ["10Foundation4DateV", "utcNanosecond"]
+- ["10Foundation4DateV", "utcOffset"]
+- ["10Foundation4DateV", "utcSecond"]
+- ["10Foundation4DateV", "utcWeekday"]
+- ["10Foundation4DateV", "utcYear"]
+- ["10Foundation4DateV", "weekday"]
+- ["10Foundation4DateV", "year"]
+- ["Se", "Component"]
+- !private ["Se", "Date"]
+- !private ["Se", "Identifier"]
+- !private ["Se", "NSTimeZone"]
+- !private ["Se", "TimeInterval"]
+- !private ["Se", "added"]
+- !private ["Se", "assert"]
+- !private ["Se", "cal"]
+- !private ["Se", "component"]
+- !private ["Se", "current"]
+- !private ["Se", "date"]
+- !private ["Se", "day"]
+- !private ["Se", "hour"]
+- ["Se", "init"]
+- !private ["Se", "lowerBound"]
+- !private ["Se", "minute"]
+- !private ["Se", "month"]
+- !private ["Se", "nanoSecondsToMilliseconds"]
+- !private ["Se", "nanosecond"]
+- !private ["Se", "range"]
+- !private ["Se", "second"]
+- !private ["Se", "secondsFromGMT"]
+- !private ["Se", "timeIntervalSince1970"]
+- !private ["Se", "timeZone"]
+- !private ["Se", "upperBound"]
+- !private ["Se", "utcCal"]
+- !private ["Se", "weekday"]
+- !private ["Se", "year"]
+- !private ["Sd", "init"]
+- ["SE", "Component"]
+- !private ["SE", "Date"]
+- !private ["SE", "Identifier"]
+- !private ["SE", "NSTimeZone"]
+- !private ["SE", "TimeInterval"]
+- !private ["SE", "added"]
+- !private ["SE", "assert"]
+- !private ["SE", "cal"]
+- !private ["SE", "component"]
+- !private ["SE", "current"]
+- !private ["SE", "date"]
+- !private ["SE", "day"]
+- !private ["SE", "hour"]
+- ["SE", "init"]
+- !private ["SE", "lowerBound"]
+- !private ["SE", "minute"]
+- !private ["SE", "month"]
+- !private ["SE", "nanoSecondsToMilliseconds"]
+- !private ["SE", "nanosecond"]
+- !private ["SE", "range"]
+- !private ["SE", "second"]
+- !private ["SE", "secondsFromGMT"]
+- !private ["SE", "timeIntervalSince1970"]
+- !private ["SE", "timeZone"]
+- !private ["SE", "upperBound"]
+- !private ["SE", "utcCal"]
+- !private ["SE", "weekday"]
+- !private ["SE", "year"]
+- ["SQ", "Component"]
+- !private ["SQ", "Date"]
+- !private ["SQ", "Identifier"]
+- !private ["SQ", "NSTimeZone"]
+- !private ["SQ", "TimeInterval"]
+- !private ["SQ", "added"]
+- !private ["SQ", "assert"]
+- !private ["SQ", "cal"]
+- !private ["SQ", "component"]
+- !private ["SQ", "current"]
+- !private ["SQ", "date"]
+- ["SQ", "day"]
+- !private ["SQ", "gregorian"]
+- ["SQ", "hour"]
+- ["SQ", "init"]
+- !private ["SQ", "local"]
+- !private ["SQ", "lowerBound"]
+- ["SQ", "minute"]
+- ["SQ", "month"]
+- !private ["SQ", "nanoSecondsToMilliseconds"]
+- ["SQ", "nanosecond"]
+- !private ["SQ", "range"]
+- ["SQ", "second"]
+- !private ["SQ", "secondsFromGMT"]
+- !private ["SQ", "timeIntervalSince1970"]
+- !private ["SQ", "timeZone"]
+- !private ["SQ", "upperBound"]
+- !private ["SQ", "utcCal"]
+- ["SQ", "weekday"]
+- ["SQ", "year"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SF", "init"]
+- ["SH", "Component"]
+- !private ["SH", "Date"]
+- !private ["SH", "Identifier"]
+- !private ["SH", "NSTimeZone"]
+- !private ["SH", "TimeInterval"]
+- !private ["SH", "added"]
+- !private ["SH", "assert"]
+- !private ["SH", "cal"]
+- !private ["SH", "component"]
+- !private ["SH", "current"]
+- !private ["SH", "date"]
+- ["SH", "day"]
+- !private ["SH", "gregorian"]
+- ["SH", "hour"]
+- ["SH", "init"]
+- !private ["SH", "local"]
+- !private ["SH", "lowerBound"]
+- ["SH", "minute"]
+- ["SH", "month"]
+- !private ["SH", "nanoSecondsToMilliseconds"]
+- ["SH", "nanosecond"]
+- !private ["SH", "range"]
+- ["SH", "second"]
+- !private ["SH", "secondsFromGMT"]
+- !private ["SH", "timeIntervalSince1970"]
+- !private ["SH", "timeZone"]
+- !private ["SH", "upperBound"]
+- !private ["SH", "utcCal"]
+- ["SH", "weekday"]
+- ["SH", "year"]
+- !private ["10Foundation8CalendarV10IdentifierO", "gregorian"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "local"]
+- !private ["So9NSCopyingP", "local"]
+- !private ["So8NSObjectC", "local"]
+- !private ["So8NSObjectP", "local"]
+- !private ["So14NSSecureCodingP", "local"]
+- !private ["So10NSTimeZoneC", "local"]
+- !private ["Sj", "init"]
+- !private ["Sk", "lowerBound"]
+- !private ["Sk", "upperBound"]
+- !private ["Sn", "lowerBound"]
+- !private ["Sn", "upperBound"]
+- !private ["SX", "lowerBound"]
+- !private ["SX", "upperBound"]
+- ["10Foundation20ReferenceConvertibleP", "Component"]
+- !private ["10Foundation20ReferenceConvertibleP", "Date"]
+- !private ["10Foundation20ReferenceConvertibleP", "Identifier"]
+- !private ["10Foundation20ReferenceConvertibleP", "NSTimeZone"]
+- !private ["10Foundation20ReferenceConvertibleP", "TimeInterval"]
+- !private ["10Foundation20ReferenceConvertibleP", "added"]
+- !private ["10Foundation20ReferenceConvertibleP", "assert"]
+- !private ["10Foundation20ReferenceConvertibleP", "cal"]
+- !private ["10Foundation20ReferenceConvertibleP", "component"]
+- !private ["10Foundation20ReferenceConvertibleP", "current"]
+- !private ["10Foundation20ReferenceConvertibleP", "date"]
+- !private ["10Foundation20ReferenceConvertibleP", "day"]
+- !private ["10Foundation20ReferenceConvertibleP", "hour"]
+- ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "minute"]
+- !private ["10Foundation20ReferenceConvertibleP", "month"]
+- !private ["10Foundation20ReferenceConvertibleP", "nanoSecondsToMilliseconds"]
+- !private ["10Foundation20ReferenceConvertibleP", "nanosecond"]
+- !private ["10Foundation20ReferenceConvertibleP", "range"]
+- !private ["10Foundation20ReferenceConvertibleP", "second"]
+- !private ["10Foundation20ReferenceConvertibleP", "secondsFromGMT"]
+- !private ["10Foundation20ReferenceConvertibleP", "timeIntervalSince1970"]
+- !private ["10Foundation20ReferenceConvertibleP", "timeZone"]
+- !private ["10Foundation20ReferenceConvertibleP", "utcCal"]
+- !private ["10Foundation20ReferenceConvertibleP", "weekday"]
+- !private ["10Foundation20ReferenceConvertibleP", "year"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", "lowerBound"]
+- !private ["ST", "upperBound"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- ["10Foundation8TimeZoneV", "init"]
+- !private ["10Foundation8TimeZoneV", "secondsFromGMT"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "Date"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "NSTimeZone"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "TimeInterval"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "added"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "assert"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "cal"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "day"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "hour"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "minute"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "month"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "nanoSecondsToMilliseconds"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "nanosecond"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "second"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "timeIntervalSince1970"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "utcCal"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "weekday"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "year"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "local"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "local"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "local"]
+- ["s21_ObjectiveCBridgeableP", "Component"]
+- !private ["s21_ObjectiveCBridgeableP", "Date"]
+- !private ["s21_ObjectiveCBridgeableP", "Identifier"]
+- !private ["s21_ObjectiveCBridgeableP", "NSTimeZone"]
+- !private ["s21_ObjectiveCBridgeableP", "TimeInterval"]
+- !private ["s21_ObjectiveCBridgeableP", "added"]
+- !private ["s21_ObjectiveCBridgeableP", "assert"]
+- !private ["s21_ObjectiveCBridgeableP", "cal"]
+- !private ["s21_ObjectiveCBridgeableP", "component"]
+- !private ["s21_ObjectiveCBridgeableP", "current"]
+- !private ["s21_ObjectiveCBridgeableP", "date"]
+- !private ["s21_ObjectiveCBridgeableP", "day"]
+- !private ["s21_ObjectiveCBridgeableP", "hour"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "minute"]
+- !private ["s21_ObjectiveCBridgeableP", "month"]
+- !private ["s21_ObjectiveCBridgeableP", "nanoSecondsToMilliseconds"]
+- !private ["s21_ObjectiveCBridgeableP", "nanosecond"]
+- !private ["s21_ObjectiveCBridgeableP", "range"]
+- !private ["s21_ObjectiveCBridgeableP", "second"]
+- !private ["s21_ObjectiveCBridgeableP", "secondsFromGMT"]
+- !private ["s21_ObjectiveCBridgeableP", "timeIntervalSince1970"]
+- !private ["s21_ObjectiveCBridgeableP", "timeZone"]
+- !private ["s21_ObjectiveCBridgeableP", "utcCal"]
+- !private ["s21_ObjectiveCBridgeableP", "weekday"]
+- !private ["s21_ObjectiveCBridgeableP", "year"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "SK"
+- !private "SB"
+- !private "Sz"
+- !private "s7CVarArgP"
+- "10Foundation8CalendarV"
+- !private "Sl"
+- !private "SL"
+- "10Foundation8CalendarV9ComponentO"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "10Foundation4DateV"
+- "Se"
+- !private "Sd"
+- "SE"
+- "SQ"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "SF"
+- "SH"
+- !private "10Foundation8CalendarV10IdentifierO"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So10NSTimeZoneC"
+- !private "Sj"
+- !private "Sk"
+- !private "Sn"
+- !private "SX"
+- "10Foundation20ReferenceConvertibleP"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "s20TextOutputStreamableP"
+- "10Foundation8TimeZoneV"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "dd307877e6f348b6a499bbe835feeb8b"

@@ -1,0 +1,165 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EN_WEEKDAY_OFFSET"
+- "EN_WEEKDAY_OFFSET_PATTERN"
+- "EN_MONTH_OFFSET"
+- "EN_INTEGER_WORDS"
+- "EN_INTEGER_WORDS_PATTERN"
+- "EN_ORDINAL_WORDS"
+- "EN_ORDINAL_WORDS_PATTERN"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- "+"
+- "EN_INTEGER_WORDS"
+- "EN_INTEGER_WORDS_PATTERN"
+- "EN_MONTH_OFFSET"
+- "EN_ORDINAL_WORDS"
+- "EN_ORDINAL_WORDS_PATTERN"
+- "EN_WEEKDAY_OFFSET"
+- "EN_WEEKDAY_OFFSET_PATTERN"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "StringLiteralType"
+- "UnicodeScalarType"
+depends-member:
+- ["SK", "replacingOccurrences"]
+- ["s7CVarArgP", "keys"]
+- ["s7CVarArgP", "replacingOccurrences"]
+- ["Sl", "joined"]
+- ["Sl", "keys"]
+- ["Sl", "replacingOccurrences"]
+- ["SL", "replacingOccurrences"]
+- ["s28CustomDebugStringConvertibleP", "joined"]
+- ["s28CustomDebugStringConvertibleP", "keys"]
+- ["s28CustomDebugStringConvertibleP", "replacingOccurrences"]
+- ["s17CustomReflectableP", "keys"]
+- ["s17CustomReflectableP", "replacingOccurrences"]
+- ["s23CustomStringConvertibleP", "appendInterpolation"]
+- ["s23CustomStringConvertibleP", "appendLiteral"]
+- ["s23CustomStringConvertibleP", "joined"]
+- ["s23CustomStringConvertibleP", "keys"]
+- ["s23CustomStringConvertibleP", "replacingOccurrences"]
+- ["Se", "keys"]
+- ["Se", "replacingOccurrences"]
+- ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["SD", "keys"]
+- ["SE", "keys"]
+- ["SE", "replacingOccurrences"]
+- ["SQ", "joined"]
+- ["SQ", "keys"]
+- ["SQ", "replacingOccurrences"]
+- ["s30ExpressibleByDictionaryLiteralP", "keys"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "replacingOccurrences"]
+- ["s32ExpressibleByStringInterpolationP", "replacingOccurrences"]
+- ["s26ExpressibleByStringLiteralP", "replacingOccurrences"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "replacingOccurrences"]
+- ["SH", "keys"]
+- ["SH", "replacingOccurrences"]
+- ["s14JoinedSequenceV", "replacingOccurrences"]
+- ["SD4KeysV", "joined"]
+- ["s25LosslessStringConvertibleP", "replacingOccurrences"]
+- ["s10MirrorPathP", "replacingOccurrences"]
+- ["So8NSCodingP", "replacingOccurrences"]
+- ["So9NSCopyingP", "replacingOccurrences"]
+- ["So21NSItemProviderReadingP", "replacingOccurrences"]
+- ["So21NSItemProviderWritingP", "replacingOccurrences"]
+- ["So16NSMutableCopyingP", "replacingOccurrences"]
+- ["So8NSObjectC", "replacingOccurrences"]
+- ["So8NSObjectP", "replacingOccurrences"]
+- ["So14NSSecureCodingP", "replacingOccurrences"]
+- ["So8NSStringC", "replacingOccurrences"]
+- ["Sm", "replacingOccurrences"]
+- ["ST", "joined"]
+- ["ST", "keys"]
+- ["ST", "replacingOccurrences"]
+- ["SS", "replacingOccurrences"]
+- ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- ["s27StringInterpolationProtocolP", "appendLiteral"]
+- ["Sy", "replacingOccurrences"]
+- ["s16TextOutputStreamP", "appendInterpolation"]
+- ["s16TextOutputStreamP", "appendLiteral"]
+- ["s16TextOutputStreamP", "replacingOccurrences"]
+- ["s20TextOutputStreamableP", "replacingOccurrences"]
+- ["s30_CustomPlaygroundQuickLookableP", "replacingOccurrences"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "replacingOccurrences"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "replacingOccurrences"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "replacingOccurrences"]
+- ["s19_HasContiguousBytesP", "replacingOccurrences"]
+- ["s35_HasCustomAnyHashableRepresentationP", "keys"]
+- ["s35_HasCustomAnyHashableRepresentationP", "replacingOccurrences"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "replacingOccurrences"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "replacingOccurrences"]
+- ["s21_ObjectiveCBridgeableP", "keys"]
+- ["s21_ObjectiveCBridgeableP", "replacingOccurrences"]
+depends-nominal:
+- "SK"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "s26DefaultStringInterpolationV"
+- "SD"
+- "SE"
+- "SQ"
+- "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "s14JoinedSequenceV"
+- "SD4KeysV"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- "Sm"
+- "ST"
+- "SS"
+- "s27StringInterpolationProtocolP"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "70b295cf4d91004f7fb7e87dc91a9a26"

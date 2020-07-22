@@ -1,0 +1,437 @@
+{
+  "": {
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/master.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Chrono.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Chrono.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Chrono.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Chrono~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Chrono.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Options.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Options.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Options.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Options~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Options.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/DE/DECasualDateParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DECasualDateParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DECasualDateParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DECasualDateParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DECasualDateParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/DE/DECasualTimeParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DECasualTimeParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DECasualTimeParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DECasualTimeParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DECasualTimeParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/DE/DEDeadlineFormatParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DEDeadlineFormatParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DEDeadlineFormatParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DEDeadlineFormatParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DEDeadlineFormatParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/DE/DEMonthNameLittleEndianParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DEMonthNameLittleEndianParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DEMonthNameLittleEndianParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DEMonthNameLittleEndianParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DEMonthNameLittleEndianParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/DE/DEMorgenTimeParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DEMorgenTimeParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DEMorgenTimeParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DEMorgenTimeParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DEMorgenTimeParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/DE/DESlashDateFormatParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DESlashDateFormatParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DESlashDateFormatParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DESlashDateFormatParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DESlashDateFormatParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/DE/DETimeAgoFormatParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DETimeAgoFormatParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DETimeAgoFormatParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DETimeAgoFormatParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DETimeAgoFormatParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/DE/DETimeExpressionParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DETimeExpressionParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DETimeExpressionParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DETimeExpressionParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DETimeExpressionParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/DE/DEWeekdayParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DEWeekdayParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DEWeekdayParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DEWeekdayParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/DE/DEWeekdayParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/EN/ENCasualDateParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENCasualDateParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENCasualDateParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENCasualDateParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENCasualDateParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/EN/ENCasualTimeParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENCasualTimeParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENCasualTimeParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENCasualTimeParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENCasualTimeParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/EN/ENDeadlineFormatParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENDeadlineFormatParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENDeadlineFormatParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENDeadlineFormatParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENDeadlineFormatParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/EN/ENISOFormatParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENISOFormatParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENISOFormatParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENISOFormatParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENISOFormatParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/EN/ENMonthNameLittleEndianParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENMonthNameLittleEndianParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENMonthNameLittleEndianParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENMonthNameLittleEndianParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENMonthNameLittleEndianParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/EN/ENMonthNameMiddleEndianParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENMonthNameMiddleEndianParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENMonthNameMiddleEndianParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENMonthNameMiddleEndianParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENMonthNameMiddleEndianParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/EN/ENMonthNameParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENMonthNameParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENMonthNameParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENMonthNameParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENMonthNameParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/EN/ENRelativeDateFormatParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENRelativeDateFormatParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENRelativeDateFormatParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENRelativeDateFormatParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENRelativeDateFormatParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/EN/ENSlashDateFormatParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENSlashDateFormatParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENSlashDateFormatParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENSlashDateFormatParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENSlashDateFormatParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/EN/ENSlashDateFormatStartWithYearParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENSlashDateFormatStartWithYearParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENSlashDateFormatStartWithYearParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENSlashDateFormatStartWithYearParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENSlashDateFormatStartWithYearParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/EN/ENSlashMonthFormatParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENSlashMonthFormatParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENSlashMonthFormatParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENSlashMonthFormatParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENSlashMonthFormatParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/EN/ENTimeAgoFormatParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENTimeAgoFormatParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENTimeAgoFormatParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENTimeAgoFormatParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENTimeAgoFormatParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/EN/ENTimeExpressionParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENTimeExpressionParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENTimeExpressionParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENTimeExpressionParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENTimeExpressionParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/EN/ENWeekdayParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENWeekdayParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENWeekdayParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENWeekdayParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/EN/ENWeekdayParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/ES/ESCasualDateParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESCasualDateParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESCasualDateParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESCasualDateParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESCasualDateParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/ES/ESDeadlineFormatParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESDeadlineFormatParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESDeadlineFormatParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESDeadlineFormatParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESDeadlineFormatParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/ES/ESMonthNameLittleEndianParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESMonthNameLittleEndianParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESMonthNameLittleEndianParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESMonthNameLittleEndianParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESMonthNameLittleEndianParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/ES/ESSlashDateFormatParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESSlashDateFormatParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESSlashDateFormatParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESSlashDateFormatParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESSlashDateFormatParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/ES/ESTimeAgoFormatParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESTimeAgoFormatParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESTimeAgoFormatParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESTimeAgoFormatParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESTimeAgoFormatParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/ES/ESTimeExpressionParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESTimeExpressionParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESTimeExpressionParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESTimeExpressionParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESTimeExpressionParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/ES/ESWeekdayParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESWeekdayParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESWeekdayParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESWeekdayParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ES/ESWeekdayParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/FR/FRCasualDateParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRCasualDateParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRCasualDateParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRCasualDateParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRCasualDateParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/FR/FRDeadlineFormatParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRDeadlineFormatParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRDeadlineFormatParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRDeadlineFormatParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRDeadlineFormatParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/FR/FRMonthNameLittleEndianParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRMonthNameLittleEndianParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRMonthNameLittleEndianParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRMonthNameLittleEndianParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRMonthNameLittleEndianParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/FR/FRSlashDateFormatParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRSlashDateFormatParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRSlashDateFormatParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRSlashDateFormatParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRSlashDateFormatParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/FR/FRTimeAgoFormatParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRTimeAgoFormatParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRTimeAgoFormatParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRTimeAgoFormatParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRTimeAgoFormatParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/FR/FRTimeExpressionParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRTimeExpressionParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRTimeExpressionParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRTimeExpressionParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRTimeExpressionParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/FR/FRWeekdayParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRWeekdayParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRWeekdayParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRWeekdayParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/FR/FRWeekdayParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/JP/JPCasualDateParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/JP/JPCasualDateParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/JP/JPCasualDateParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/JP/JPCasualDateParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/JP/JPCasualDateParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/JP/JPStandardParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/JP/JPStandardParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/JP/JPStandardParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/JP/JPStandardParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/JP/JPStandardParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/Parser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/Parser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/Parser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/Parser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/Parser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/ZH/ZHCasualDateParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHCasualDateParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHCasualDateParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHCasualDateParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHCasualDateParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/ZH/ZHDateParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHDateParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHDateParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHDateParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHDateParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/ZH/ZHDeadlineFormatParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHDeadlineFormatParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHDeadlineFormatParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHDeadlineFormatParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHDeadlineFormatParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/ZH/ZHTimeExpressionParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHTimeExpressionParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHTimeExpressionParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHTimeExpressionParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHTimeExpressionParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Parsers/ZH/ZHWeekdayParser.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHWeekdayParser.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHWeekdayParser.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHWeekdayParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Parsers/ZH/ZHWeekdayParser.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Refiners/DE/DEMergeDateRangeRefiner.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/DE/DEMergeDateRangeRefiner.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/DE/DEMergeDateRangeRefiner.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/DE/DEMergeDateRangeRefiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/DE/DEMergeDateRangeRefiner.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Refiners/DE/DEMergeDateTimeRefiner.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/DE/DEMergeDateTimeRefiner.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/DE/DEMergeDateTimeRefiner.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/DE/DEMergeDateTimeRefiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/DE/DEMergeDateTimeRefiner.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Refiners/EN/ENMergeDateRangeRefiner.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/EN/ENMergeDateRangeRefiner.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/EN/ENMergeDateRangeRefiner.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/EN/ENMergeDateRangeRefiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/EN/ENMergeDateRangeRefiner.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Refiners/EN/ENMergeDateTimeRefiner.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/EN/ENMergeDateTimeRefiner.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/EN/ENMergeDateTimeRefiner.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/EN/ENMergeDateTimeRefiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/EN/ENMergeDateTimeRefiner.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Refiners/EN/ENPrioritizeSpecificDateRefiner.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/EN/ENPrioritizeSpecificDateRefiner.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/EN/ENPrioritizeSpecificDateRefiner.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/EN/ENPrioritizeSpecificDateRefiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/EN/ENPrioritizeSpecificDateRefiner.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Refiners/ExtractTimezoneAbbrRefiner.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/ExtractTimezoneAbbrRefiner.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/ExtractTimezoneAbbrRefiner.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/ExtractTimezoneAbbrRefiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/ExtractTimezoneAbbrRefiner.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Refiners/ExtractTimezoneOffsetRefiner.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/ExtractTimezoneOffsetRefiner.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/ExtractTimezoneOffsetRefiner.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/ExtractTimezoneOffsetRefiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/ExtractTimezoneOffsetRefiner.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Refiners/FR/FRMergeDateRangeRefiner.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/FR/FRMergeDateRangeRefiner.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/FR/FRMergeDateRangeRefiner.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/FR/FRMergeDateRangeRefiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/FR/FRMergeDateRangeRefiner.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Refiners/FR/FRMergeDateTimeRefiner.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/FR/FRMergeDateTimeRefiner.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/FR/FRMergeDateTimeRefiner.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/FR/FRMergeDateTimeRefiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/FR/FRMergeDateTimeRefiner.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Refiners/ForwardDateRefiner.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/ForwardDateRefiner.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/ForwardDateRefiner.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/ForwardDateRefiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/ForwardDateRefiner.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Refiners/JP/JPMergeDateRangeRefiner.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/JP/JPMergeDateRangeRefiner.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/JP/JPMergeDateRangeRefiner.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/JP/JPMergeDateRangeRefiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/JP/JPMergeDateRangeRefiner.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Refiners/MergeDataRangeRefiner.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/MergeDataRangeRefiner.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/MergeDataRangeRefiner.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/MergeDataRangeRefiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/MergeDataRangeRefiner.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Refiners/MergeDateTimeRefiner.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/MergeDateTimeRefiner.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/MergeDateTimeRefiner.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/MergeDateTimeRefiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/MergeDateTimeRefiner.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Refiners/OverlapRemovalRefiner.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/OverlapRemovalRefiner.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/OverlapRemovalRefiner.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/OverlapRemovalRefiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/OverlapRemovalRefiner.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Refiners/Refiner.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/Refiner.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/Refiner.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/Refiner~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/Refiner.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Refiners/UnlikelyFormatFilter.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/UnlikelyFormatFilter.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/UnlikelyFormatFilter.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/UnlikelyFormatFilter~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Refiners/UnlikelyFormatFilter.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Result.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Result.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Result.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Result~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Result.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Utils/DEUtil.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/DEUtil.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/DEUtil.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/DEUtil~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/DEUtil.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Utils/Date.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/Date.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/Date.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/Date~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/Date.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Utils/ENUtil.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/ENUtil.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/ENUtil.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/ENUtil~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/ENUtil.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Utils/ESUtil.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/ESUtil.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/ESUtil.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/ESUtil~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/ESUtil.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Utils/FRUtil.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/FRUtil.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/FRUtil.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/FRUtil~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/FRUtil.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Utils/JPUtil.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/JPUtil.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/JPUtil.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/JPUtil~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/JPUtil.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Utils/Util.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/Util.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/Util.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/Util~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/Util.swiftdeps"
+  },
+  "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/Sources/SwiftyChrono/Utils/ZHUtil.swift": {
+    "dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/ZHUtil.d",
+    "object": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/ZHUtil.swift.o",
+    "swiftmodule": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/ZHUtil~partial.swiftmodule",
+    "swift-dependencies": "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/Utils/ZHUtil.swiftdeps"
+  }
+}

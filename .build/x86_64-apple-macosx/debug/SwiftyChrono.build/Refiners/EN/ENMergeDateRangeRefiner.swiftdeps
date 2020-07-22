@@ -1,0 +1,65 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ENMergeDateRangeRefiner"
+provides-nominal:
+- "12SwiftyChrono23ENMergeDateRangeRefinerC"
+provides-member:
+- ["12SwiftyChrono23ENMergeDateRangeRefinerC", ""]
+provides-dynamic-lookup:
+- "PATTERN"
+- "TAGS"
+depends-top-level:
+- "ENMergeDateRangeRefiner"
+- "MergeDateRangeRefiner"
+- "String"
+- !private "StringLiteralType"
+- "TagUnit"
+depends-member:
+- ["12SwiftyChrono23ENMergeDateRangeRefinerC", "PATTERN"]
+- ["12SwiftyChrono23ENMergeDateRangeRefinerC", "String"]
+- ["12SwiftyChrono23ENMergeDateRangeRefinerC", "TAGS"]
+- ["12SwiftyChrono23ENMergeDateRangeRefinerC", "TagUnit"]
+- ["12SwiftyChrono23ENMergeDateRangeRefinerC", "deinit"]
+- ["12SwiftyChrono23ENMergeDateRangeRefinerC", "init"]
+- !private ["SQ", "enMergeDateRangeRefiner"]
+- !private ["SH", "enMergeDateRangeRefiner"]
+- ["12SwiftyChrono21MergeDateRangeRefinerC", "PATTERN"]
+- ["12SwiftyChrono21MergeDateRangeRefinerC", "String"]
+- ["12SwiftyChrono21MergeDateRangeRefinerC", "TAGS"]
+- ["12SwiftyChrono21MergeDateRangeRefinerC", "TagUnit"]
+- ["12SwiftyChrono21MergeDateRangeRefinerC", ""]
+- ["12SwiftyChrono21MergeDateRangeRefinerC", "init"]
+- ["12SwiftyChrono7RefinerC", "PATTERN"]
+- ["12SwiftyChrono7RefinerC", "String"]
+- ["12SwiftyChrono7RefinerC", "TAGS"]
+- ["12SwiftyChrono7RefinerC", "TagUnit"]
+- ["12SwiftyChrono7RefinerC", "init"]
+- !private ["12SwiftyChrono7TagUnitO", "enMergeDateRangeRefiner"]
+depends-nominal:
+- "12SwiftyChrono23ENMergeDateRangeRefinerC"
+- !private "SQ"
+- !private "SH"
+- "12SwiftyChrono21MergeDateRangeRefinerC"
+- "12SwiftyChrono7RefinerC"
+- !private "12SwiftyChrono7TagUnitO"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "64323d028e65f584ed61c3fa95def533"

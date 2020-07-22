@@ -1,0 +1,308 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ModeOptio"
+- "strictModeOption"
+- "casualModeOption"
+- "Language"
+provides-nominal:
+- "12SwiftyChrono9ModeOptioV"
+- "12SwiftyChrono8LanguageO"
+provides-member:
+- ["12SwiftyChrono9ModeOptioV", ""]
+- ["12SwiftyChrono8LanguageO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "DECasualDateParser"
+- !private "DECasualTimeParser"
+- !private "DEDeadlineFormatParser"
+- !private "DEMergeDateRangeRefiner"
+- !private "DEMergeDateTimeRefiner"
+- !private "DEMonthNameLittleEndianParser"
+- !private "DEMorgenTimeParser"
+- !private "DESlashDateFormatParser"
+- !private "DETimeAgoFormatParser"
+- !private "DETimeExpressionParser"
+- !private "DEWeekdayParser"
+- !private "ENCasualDateParser"
+- !private "ENCasualTimeParser"
+- !private "ENDeadlineFormatParser"
+- !private "ENISOFormatParser"
+- !private "ENMergeDateRangeRefiner"
+- !private "ENMergeDateTimeRefiner"
+- !private "ENMonthNameLittleEndianParser"
+- !private "ENMonthNameMiddleEndianParser"
+- !private "ENMonthNameParser"
+- !private "ENPrioritizeSpecificDateRefiner"
+- !private "ENRelativeDateFormatParser"
+- !private "ENSlashDateFormatParser"
+- !private "ENSlashDateFormatStartWithYearParser"
+- !private "ENSlashMonthFormatParser"
+- !private "ENTimeAgoFormatParser"
+- !private "ENTimeExpressionParser"
+- !private "ENWeekdayParser"
+- !private "ESCasualDateParser"
+- !private "ESDeadlineFormatParser"
+- !private "ESMonthNameLittleEndianParser"
+- !private "ESSlashDateFormatParser"
+- !private "ESTimeAgoFormatParser"
+- !private "ESTimeExpressionParser"
+- !private "ESWeekdayParser"
+- !private "ExtractTimezoneAbbrRefiner"
+- !private "ExtractTimezoneOffsetRefiner"
+- !private "FRCasualDateParser"
+- !private "FRDeadlineFormatParser"
+- !private "FRMergeDateRangeRefiner"
+- !private "FRMergeDateTimeRefiner"
+- !private "FRMonthNameLittleEndianParser"
+- !private "FRSlashDateFormatParser"
+- !private "FRTimeAgoFormatParser"
+- !private "FRTimeExpressionParser"
+- !private "FRWeekdayParser"
+- !private "FloatLiteralType"
+- !private "ForwardDateRefiner"
+- !private "IntegerLiteralType"
+- !private "JPCasualDateParser"
+- !private "JPMergeDateRangeRefiner"
+- !private "JPStandardParser"
+- "Language"
+- "ModeOptio"
+- !private "OverlapRemovalRefiner"
+- "Parser"
+- "Refiner"
+- !private "UnlikelyFormatFilter"
+- !private "ZHCasualDateParser"
+- !private "ZHDateParser"
+- !private "ZHDeadlineFormatParser"
+- !private "ZHTimeExpressionParser"
+- !private "ZHWeekdayParser"
+- !private "baseOption"
+- "casualModeOption"
+- "strictModeOption"
+depends-member:
+- !private ["Sa", "insert"]
+- !private ["SK", "insert"]
+- !private ["s7CVarArgP", "insert"]
+- !private ["Sl", "insert"]
+- !private ["10Foundation15ContiguousBytesP", "insert"]
+- !private ["s28CustomDebugStringConvertibleP", "insert"]
+- !private ["s17CustomReflectableP", "insert"]
+- !private ["s23CustomStringConvertibleP", "insert"]
+- !private ["12SwiftyChrono18DECasualDateParserC", "init"]
+- !private ["12SwiftyChrono18DECasualTimeParserC", "init"]
+- !private ["12SwiftyChrono22DEDeadlineFormatParserC", "init"]
+- !private ["12SwiftyChrono23DEMergeDateRangeRefinerC", "init"]
+- !private ["12SwiftyChrono22DEMergeDateTimeRefinerC", "init"]
+- !private ["12SwiftyChrono29DEMonthNameLittleEndianParserC", "init"]
+- !private ["12SwiftyChrono18DEMorgenTimeParserC", "init"]
+- !private ["12SwiftyChrono23DESlashDateFormatParserC", "init"]
+- !private ["12SwiftyChrono21DETimeAgoFormatParserC", "init"]
+- !private ["12SwiftyChrono22DETimeExpressionParserC", "init"]
+- !private ["12SwiftyChrono15DEWeekdayParserC", "init"]
+- !private ["10Foundation12DataProtocolP", "insert"]
+- !private ["Se", "insert"]
+- !private ["12SwiftyChrono18ENCasualDateParserC", "init"]
+- !private ["12SwiftyChrono18ENCasualTimeParserC", "init"]
+- !private ["12SwiftyChrono22ENDeadlineFormatParserC", "init"]
+- !private ["12SwiftyChrono17ENISOFormatParserC", "init"]
+- !private ["12SwiftyChrono23ENMergeDateRangeRefinerC", "init"]
+- !private ["12SwiftyChrono22ENMergeDateTimeRefinerC", "init"]
+- !private ["12SwiftyChrono29ENMonthNameLittleEndianParserC", "init"]
+- !private ["12SwiftyChrono29ENMonthNameMiddleEndianParserC", "init"]
+- !private ["12SwiftyChrono17ENMonthNameParserC", "init"]
+- !private ["12SwiftyChrono31ENPrioritizeSpecificDateRefinerC", "init"]
+- !private ["12SwiftyChrono26ENRelativeDateFormatParserC", "init"]
+- !private ["12SwiftyChrono23ENSlashDateFormatParserC", "init"]
+- !private ["12SwiftyChrono36ENSlashDateFormatStartWithYearParserC", "init"]
+- !private ["12SwiftyChrono24ENSlashMonthFormatParserC", "init"]
+- !private ["12SwiftyChrono21ENTimeAgoFormatParserC", "init"]
+- !private ["12SwiftyChrono22ENTimeExpressionParserC", "init"]
+- !private ["12SwiftyChrono15ENWeekdayParserC", "init"]
+- !private ["12SwiftyChrono18ESCasualDateParserC", "init"]
+- !private ["12SwiftyChrono22ESDeadlineFormatParserC", "init"]
+- !private ["12SwiftyChrono29ESMonthNameLittleEndianParserC", "init"]
+- !private ["12SwiftyChrono23ESSlashDateFormatParserC", "init"]
+- !private ["12SwiftyChrono21ESTimeAgoFormatParserC", "init"]
+- !private ["12SwiftyChrono22ESTimeExpressionParserC", "init"]
+- !private ["12SwiftyChrono15ESWeekdayParserC", "init"]
+- !private ["SE", "insert"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "insert"]
+- !private ["s25ExpressibleByArrayLiteralP", "insert"]
+- !private ["12SwiftyChrono26ExtractTimezoneAbbrRefinerC", "init"]
+- !private ["12SwiftyChrono28ExtractTimezoneOffsetRefinerC", "init"]
+- !private ["12SwiftyChrono18FRCasualDateParserC", "init"]
+- !private ["12SwiftyChrono22FRDeadlineFormatParserC", "init"]
+- !private ["12SwiftyChrono23FRMergeDateRangeRefinerC", "init"]
+- !private ["12SwiftyChrono22FRMergeDateTimeRefinerC", "init"]
+- !private ["12SwiftyChrono29FRMonthNameLittleEndianParserC", "init"]
+- !private ["12SwiftyChrono23FRSlashDateFormatParserC", "init"]
+- !private ["12SwiftyChrono21FRTimeAgoFormatParserC", "init"]
+- !private ["12SwiftyChrono22FRTimeExpressionParserC", "init"]
+- !private ["12SwiftyChrono15FRWeekdayParserC", "init"]
+- !private ["12SwiftyChrono6FilterC", "init"]
+- !private ["12SwiftyChrono18ForwardDateRefinerC", "init"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "insert"]
+- !private ["s6HasherV", "combine"]
+- !private ["12SwiftyChrono18JPCasualDateParserC", "init"]
+- !private ["12SwiftyChrono23JPMergeDateRangeRefinerC", "init"]
+- !private ["12SwiftyChrono16JPStandardParserC", "init"]
+- ["12SwiftyChrono8LanguageO", "=="]
+- ["12SwiftyChrono8LanguageO", "__derived_enum_equals"]
+- ["12SwiftyChrono8LanguageO", "_rawHashValue"]
+- ["12SwiftyChrono8LanguageO", "chinese"]
+- ["12SwiftyChrono8LanguageO", "deinit"]
+- ["12SwiftyChrono8LanguageO", "english"]
+- ["12SwiftyChrono8LanguageO", "french"]
+- ["12SwiftyChrono8LanguageO", "german"]
+- ["12SwiftyChrono8LanguageO", "hash"]
+- ["12SwiftyChrono8LanguageO", "hashValue"]
+- ["12SwiftyChrono8LanguageO", "japanese"]
+- ["12SwiftyChrono8LanguageO", "spanish"]
+- !private ["12SwiftyChrono21MergeDateRangeRefinerC", "init"]
+- !private ["12SwiftyChrono20MergeDateTimeRefinerC", "init"]
+- ["12SwiftyChrono9ModeOptioV", "Parser"]
+- ["12SwiftyChrono9ModeOptioV", "Refiner"]
+- ["12SwiftyChrono9ModeOptioV", "init"]
+- ["12SwiftyChrono9ModeOptioV", "parsers"]
+- ["12SwiftyChrono9ModeOptioV", "refiners"]
+- !private ["SM", "insert"]
+- !private ["10Foundation19MutableDataProtocolP", "insert"]
+- !private ["12SwiftyChrono21OverlapRemovalRefinerC", "init"]
+- !private ["12SwiftyChrono6ParserC", "init"]
+- !private ["Sk", "insert"]
+- !private ["Sm", "insert"]
+- !private ["12SwiftyChrono7RefinerC", "init"]
+- !private ["ST", "insert"]
+- !private ["12SwiftyChrono20UnlikelyFormatFilterC", "init"]
+- !private ["12SwiftyChrono18ZHCasualDateParserC", "init"]
+- !private ["12SwiftyChrono12ZHDateParserC", "init"]
+- !private ["12SwiftyChrono22ZHDeadlineFormatParserC", "init"]
+- !private ["12SwiftyChrono22ZHTimeExpressionParserC", "init"]
+- !private ["12SwiftyChrono15ZHWeekdayParserC", "init"]
+- !private ["s14_ArrayProtocolP", "insert"]
+- !private ["s24_DestructorSafeContainerP", "insert"]
+- !private ["s19_HasContiguousBytesP", "insert"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "insert"]
+- !private ["s21_ObjectiveCBridgeableP", "insert"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "12SwiftyChrono18DECasualDateParserC"
+- !private "12SwiftyChrono18DECasualTimeParserC"
+- !private "12SwiftyChrono22DEDeadlineFormatParserC"
+- !private "12SwiftyChrono23DEMergeDateRangeRefinerC"
+- !private "12SwiftyChrono22DEMergeDateTimeRefinerC"
+- !private "12SwiftyChrono29DEMonthNameLittleEndianParserC"
+- !private "12SwiftyChrono18DEMorgenTimeParserC"
+- !private "12SwiftyChrono23DESlashDateFormatParserC"
+- !private "12SwiftyChrono21DETimeAgoFormatParserC"
+- !private "12SwiftyChrono22DETimeExpressionParserC"
+- !private "12SwiftyChrono15DEWeekdayParserC"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "12SwiftyChrono18ENCasualDateParserC"
+- !private "12SwiftyChrono18ENCasualTimeParserC"
+- !private "12SwiftyChrono22ENDeadlineFormatParserC"
+- !private "12SwiftyChrono17ENISOFormatParserC"
+- !private "12SwiftyChrono23ENMergeDateRangeRefinerC"
+- !private "12SwiftyChrono22ENMergeDateTimeRefinerC"
+- !private "12SwiftyChrono29ENMonthNameLittleEndianParserC"
+- !private "12SwiftyChrono29ENMonthNameMiddleEndianParserC"
+- !private "12SwiftyChrono17ENMonthNameParserC"
+- !private "12SwiftyChrono31ENPrioritizeSpecificDateRefinerC"
+- !private "12SwiftyChrono26ENRelativeDateFormatParserC"
+- !private "12SwiftyChrono23ENSlashDateFormatParserC"
+- !private "12SwiftyChrono36ENSlashDateFormatStartWithYearParserC"
+- !private "12SwiftyChrono24ENSlashMonthFormatParserC"
+- !private "12SwiftyChrono21ENTimeAgoFormatParserC"
+- !private "12SwiftyChrono22ENTimeExpressionParserC"
+- !private "12SwiftyChrono15ENWeekdayParserC"
+- !private "12SwiftyChrono18ESCasualDateParserC"
+- !private "12SwiftyChrono22ESDeadlineFormatParserC"
+- !private "12SwiftyChrono29ESMonthNameLittleEndianParserC"
+- !private "12SwiftyChrono23ESSlashDateFormatParserC"
+- !private "12SwiftyChrono21ESTimeAgoFormatParserC"
+- !private "12SwiftyChrono22ESTimeExpressionParserC"
+- !private "12SwiftyChrono15ESWeekdayParserC"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "12SwiftyChrono26ExtractTimezoneAbbrRefinerC"
+- !private "12SwiftyChrono28ExtractTimezoneOffsetRefinerC"
+- !private "12SwiftyChrono18FRCasualDateParserC"
+- !private "12SwiftyChrono22FRDeadlineFormatParserC"
+- !private "12SwiftyChrono23FRMergeDateRangeRefinerC"
+- !private "12SwiftyChrono22FRMergeDateTimeRefinerC"
+- !private "12SwiftyChrono29FRMonthNameLittleEndianParserC"
+- !private "12SwiftyChrono23FRSlashDateFormatParserC"
+- !private "12SwiftyChrono21FRTimeAgoFormatParserC"
+- !private "12SwiftyChrono22FRTimeExpressionParserC"
+- !private "12SwiftyChrono15FRWeekdayParserC"
+- !private "12SwiftyChrono6FilterC"
+- !private "12SwiftyChrono18ForwardDateRefinerC"
+- "SH"
+- !private "s6HasherV"
+- !private "12SwiftyChrono18JPCasualDateParserC"
+- !private "12SwiftyChrono23JPMergeDateRangeRefinerC"
+- !private "12SwiftyChrono16JPStandardParserC"
+- "12SwiftyChrono8LanguageO"
+- !private "12SwiftyChrono21MergeDateRangeRefinerC"
+- !private "12SwiftyChrono20MergeDateTimeRefinerC"
+- "12SwiftyChrono9ModeOptioV"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "12SwiftyChrono21OverlapRemovalRefinerC"
+- !private "12SwiftyChrono6ParserC"
+- !private "Sk"
+- !private "Sm"
+- !private "12SwiftyChrono7RefinerC"
+- !private "ST"
+- !private "12SwiftyChrono20UnlikelyFormatFilterC"
+- !private "12SwiftyChrono18ZHCasualDateParserC"
+- !private "12SwiftyChrono12ZHDateParserC"
+- !private "12SwiftyChrono22ZHDeadlineFormatParserC"
+- !private "12SwiftyChrono22ZHTimeExpressionParserC"
+- !private "12SwiftyChrono15ZHWeekdayParserC"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f25a4981a62cb62da66dac7b29aad53c"

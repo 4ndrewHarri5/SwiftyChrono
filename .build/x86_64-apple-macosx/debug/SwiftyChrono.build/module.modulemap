@@ -1,0 +1,4 @@
+module SwiftyChrono {
+    header "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/SwiftyChrono-Swift.h"
+    requires objc
+}

@@ -1,0 +1,477 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DEMorgenTimeParser"
+provides-nominal:
+- "12SwiftyChrono18DEMorgenTimeParserC"
+provides-member:
+- ["12SwiftyChrono18DEMorgenTimeParserC", ""]
+provides-dynamic-lookup:
+- "extract"
+- "language"
+- "pattern"
+depends-top-level:
+- !private "+"
+- !private "-"
+- !private "??"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "DEMorgenTimeParser"
+- !private "DE_WEEKDAY_OFFSET"
+- "DE_WEEKDAY_WORDS_PATTERN"
+- "Date"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "Language"
+- "NSTextCheckingResult"
+- "OptionType"
+- !private "PATTERN"
+- "ParsedResult"
+- "Parser"
+- "String"
+- "StringLiteralType"
+- !private "timeMatch"
+depends-member:
+- !private ["SK", "count"]
+- !private ["SK", "hasPrefix"]
+- !private ["SK", "hasSuffix"]
+- !private ["SK", "lowercased"]
+- !private ["SK", "morning"]
+- !private ["SK", "substring"]
+- !private ["SK", "trimmed"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "hasPrefix"]
+- !private ["s7CVarArgP", "hasSuffix"]
+- !private ["s7CVarArgP", "lowercased"]
+- !private ["s7CVarArgP", "string"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "substring"]
+- !private ["s7CVarArgP", "trimmed"]
+- !private ["Sl", "count"]
+- !private ["Sl", "hasPrefix"]
+- !private ["Sl", "hasSuffix"]
+- !private ["Sl", "lowercased"]
+- !private ["Sl", "morning"]
+- !private ["Sl", "subscript"]
+- !private ["Sl", "substring"]
+- !private ["Sl", "trimmed"]
+- !private ["SL", "count"]
+- !private ["SL", "day"]
+- !private ["SL", "hasPrefix"]
+- !private ["SL", "hasSuffix"]
+- !private ["SL", "lowercased"]
+- !private ["SL", "morning"]
+- !private ["SL", "substring"]
+- !private ["SL", "trimmed"]
+- !private ["12SwiftyChrono13ComponentUnitO", "day"]
+- !private ["12SwiftyChrono13ComponentUnitO", "hour"]
+- !private ["12SwiftyChrono13ComponentUnitO", "weekday"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "day"]
+- !private ["s28CustomDebugStringConvertibleP", "hasPrefix"]
+- !private ["s28CustomDebugStringConvertibleP", "hasSuffix"]
+- !private ["s28CustomDebugStringConvertibleP", "lowercased"]
+- !private ["s28CustomDebugStringConvertibleP", "morning"]
+- !private ["s28CustomDebugStringConvertibleP", "string"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "substring"]
+- !private ["s28CustomDebugStringConvertibleP", "trimmed"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "day"]
+- !private ["s17CustomReflectableP", "hasPrefix"]
+- !private ["s17CustomReflectableP", "hasSuffix"]
+- !private ["s17CustomReflectableP", "lowercased"]
+- !private ["s17CustomReflectableP", "morning"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "substring"]
+- !private ["s17CustomReflectableP", "trimmed"]
+- ["s23CustomStringConvertibleP", "appendInterpolation"]
+- ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "day"]
+- !private ["s23CustomStringConvertibleP", "hasPrefix"]
+- !private ["s23CustomStringConvertibleP", "hasSuffix"]
+- !private ["s23CustomStringConvertibleP", "lowercased"]
+- !private ["s23CustomStringConvertibleP", "morning"]
+- !private ["s23CustomStringConvertibleP", "string"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "substring"]
+- !private ["s23CustomStringConvertibleP", "trimmed"]
+- !private ["12SwiftyChrono18DEMorgenTimeParserC", "DE_WEEKDAY_OFFSET"]
+- ["12SwiftyChrono18DEMorgenTimeParserC", "Date"]
+- ["12SwiftyChrono18DEMorgenTimeParserC", "Int"]
+- ["12SwiftyChrono18DEMorgenTimeParserC", "Language"]
+- ["12SwiftyChrono18DEMorgenTimeParserC", "NSTextCheckingResult"]
+- ["12SwiftyChrono18DEMorgenTimeParserC", "OptionType"]
+- !private ["12SwiftyChrono18DEMorgenTimeParserC", "PATTERN"]
+- ["12SwiftyChrono18DEMorgenTimeParserC", "ParsedResult"]
+- ["12SwiftyChrono18DEMorgenTimeParserC", "String"]
+- ["12SwiftyChrono18DEMorgenTimeParserC", "deinit"]
+- ["12SwiftyChrono18DEMorgenTimeParserC", "extract"]
+- ["12SwiftyChrono18DEMorgenTimeParserC", "init"]
+- ["12SwiftyChrono18DEMorgenTimeParserC", "language"]
+- !private ["12SwiftyChrono18DEMorgenTimeParserC", "matchTextAndIndex"]
+- ["12SwiftyChrono18DEMorgenTimeParserC", "pattern"]
+- !private ["12SwiftyChrono18DEMorgenTimeParserC", "timeMatch"]
+- !private ["10Foundation4DateV", "day"]
+- !private ["Se", "count"]
+- !private ["Se", "day"]
+- !private ["Se", "hasPrefix"]
+- !private ["Se", "hasSuffix"]
+- !private ["Se", "lowercased"]
+- !private ["Se", "morning"]
+- !private ["Se", "subscript"]
+- !private ["Se", "substring"]
+- !private ["Se", "trimmed"]
+- ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "subscript"]
+- !private ["SE", "count"]
+- !private ["SE", "day"]
+- !private ["SE", "hasPrefix"]
+- !private ["SE", "hasSuffix"]
+- !private ["SE", "lowercased"]
+- !private ["SE", "morning"]
+- !private ["SE", "subscript"]
+- !private ["SE", "substring"]
+- !private ["SE", "trimmed"]
+- !private ["SQ", "count"]
+- !private ["SQ", "day"]
+- !private ["SQ", "deMorgenTimeParser"]
+- !private ["SQ", "german"]
+- !private ["SQ", "hasPrefix"]
+- !private ["SQ", "hasSuffix"]
+- !private ["SQ", "hour"]
+- !private ["SQ", "lowercased"]
+- !private ["SQ", "morning"]
+- !private ["SQ", "string"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "substring"]
+- !private ["SQ", "trimmed"]
+- !private ["SQ", "weekday"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "count"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "hasPrefix"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "hasSuffix"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "lowercased"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "substring"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "trimmed"]
+- !private ["s32ExpressibleByStringInterpolationP", "count"]
+- !private ["s32ExpressibleByStringInterpolationP", "hasPrefix"]
+- !private ["s32ExpressibleByStringInterpolationP", "hasSuffix"]
+- !private ["s32ExpressibleByStringInterpolationP", "lowercased"]
+- !private ["s32ExpressibleByStringInterpolationP", "substring"]
+- !private ["s32ExpressibleByStringInterpolationP", "trimmed"]
+- !private ["s26ExpressibleByStringLiteralP", "count"]
+- !private ["s26ExpressibleByStringLiteralP", "hasPrefix"]
+- !private ["s26ExpressibleByStringLiteralP", "hasSuffix"]
+- !private ["s26ExpressibleByStringLiteralP", "lowercased"]
+- !private ["s26ExpressibleByStringLiteralP", "substring"]
+- !private ["s26ExpressibleByStringLiteralP", "trimmed"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "count"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "hasPrefix"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "hasSuffix"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "lowercased"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "substring"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "trimmed"]
+- !private ["SH", "count"]
+- !private ["SH", "day"]
+- !private ["SH", "deMorgenTimeParser"]
+- !private ["SH", "german"]
+- !private ["SH", "hasPrefix"]
+- !private ["SH", "hasSuffix"]
+- !private ["SH", "hour"]
+- !private ["SH", "lowercased"]
+- !private ["SH", "morning"]
+- !private ["SH", "string"]
+- !private ["SH", "subscript"]
+- !private ["SH", "substring"]
+- !private ["SH", "trimmed"]
+- !private ["SH", "weekday"]
+- !private ["SD5IndexV", "morning"]
+- !private ["12SwiftyChrono8LanguageO", "german"]
+- !private ["s25LosslessStringConvertibleP", "count"]
+- !private ["s25LosslessStringConvertibleP", "hasPrefix"]
+- !private ["s25LosslessStringConvertibleP", "hasSuffix"]
+- !private ["s25LosslessStringConvertibleP", "lowercased"]
+- !private ["s25LosslessStringConvertibleP", "substring"]
+- !private ["s25LosslessStringConvertibleP", "trimmed"]
+- !private ["s10MirrorPathP", "count"]
+- !private ["s10MirrorPathP", "hasPrefix"]
+- !private ["s10MirrorPathP", "hasSuffix"]
+- !private ["s10MirrorPathP", "lowercased"]
+- !private ["s10MirrorPathP", "substring"]
+- !private ["s10MirrorPathP", "trimmed"]
+- !private ["So8NSCodingP", "count"]
+- !private ["So8NSCodingP", "hasPrefix"]
+- !private ["So8NSCodingP", "hasSuffix"]
+- !private ["So8NSCodingP", "lowercased"]
+- !private ["So8NSCodingP", "string"]
+- !private ["So8NSCodingP", "substring"]
+- !private ["So8NSCodingP", "trimmed"]
+- !private ["So9NSCopyingP", "count"]
+- !private ["So9NSCopyingP", "hasPrefix"]
+- !private ["So9NSCopyingP", "hasSuffix"]
+- !private ["So9NSCopyingP", "lowercased"]
+- !private ["So9NSCopyingP", "string"]
+- !private ["So9NSCopyingP", "substring"]
+- !private ["So9NSCopyingP", "trimmed"]
+- !private ["So21NSItemProviderReadingP", "count"]
+- !private ["So21NSItemProviderReadingP", "hasPrefix"]
+- !private ["So21NSItemProviderReadingP", "hasSuffix"]
+- !private ["So21NSItemProviderReadingP", "lowercased"]
+- !private ["So21NSItemProviderReadingP", "substring"]
+- !private ["So21NSItemProviderReadingP", "trimmed"]
+- !private ["So21NSItemProviderWritingP", "count"]
+- !private ["So21NSItemProviderWritingP", "hasPrefix"]
+- !private ["So21NSItemProviderWritingP", "hasSuffix"]
+- !private ["So21NSItemProviderWritingP", "lowercased"]
+- !private ["So21NSItemProviderWritingP", "substring"]
+- !private ["So21NSItemProviderWritingP", "trimmed"]
+- !private ["So16NSMutableCopyingP", "count"]
+- !private ["So16NSMutableCopyingP", "hasPrefix"]
+- !private ["So16NSMutableCopyingP", "hasSuffix"]
+- !private ["So16NSMutableCopyingP", "lowercased"]
+- !private ["So16NSMutableCopyingP", "substring"]
+- !private ["So16NSMutableCopyingP", "trimmed"]
+- !private ["So8NSObjectC", "count"]
+- !private ["So8NSObjectC", "hasPrefix"]
+- !private ["So8NSObjectC", "hasSuffix"]
+- !private ["So8NSObjectC", "lowercased"]
+- !private ["So8NSObjectC", "string"]
+- !private ["So8NSObjectC", "substring"]
+- !private ["So8NSObjectC", "trimmed"]
+- !private ["So8NSObjectP", "count"]
+- !private ["So8NSObjectP", "hasPrefix"]
+- !private ["So8NSObjectP", "hasSuffix"]
+- !private ["So8NSObjectP", "lowercased"]
+- !private ["So8NSObjectP", "string"]
+- !private ["So8NSObjectP", "substring"]
+- !private ["So8NSObjectP", "trimmed"]
+- !private ["So14NSSecureCodingP", "count"]
+- !private ["So14NSSecureCodingP", "hasPrefix"]
+- !private ["So14NSSecureCodingP", "hasSuffix"]
+- !private ["So14NSSecureCodingP", "lowercased"]
+- !private ["So14NSSecureCodingP", "string"]
+- !private ["So14NSSecureCodingP", "substring"]
+- !private ["So14NSSecureCodingP", "trimmed"]
+- !private ["So8NSStringC", "count"]
+- !private ["So8NSStringC", "hasPrefix"]
+- !private ["So8NSStringC", "hasSuffix"]
+- !private ["So8NSStringC", "lowercased"]
+- !private ["So8NSStringC", "substring"]
+- !private ["So8NSStringC", "trimmed"]
+- !private ["So20NSTextCheckingResultC", "string"]
+- ["12SwiftyChrono10OptionTypeO", "deinit"]
+- !private ["12SwiftyChrono10OptionTypeO", "morning"]
+- !private ["12SwiftyChrono16ParsedComponentsV", "assign"]
+- !private ["12SwiftyChrono16ParsedComponentsV", "imply"]
+- !private ["12SwiftyChrono12ParsedResultV", "init"]
+- !private ["12SwiftyChrono12ParsedResultV", "start"]
+- !private ["12SwiftyChrono12ParsedResultV", "tags"]
+- !private ["12SwiftyChrono6ParserC", "DE_WEEKDAY_OFFSET"]
+- ["12SwiftyChrono6ParserC", "Date"]
+- ["12SwiftyChrono6ParserC", "Int"]
+- ["12SwiftyChrono6ParserC", "Language"]
+- ["12SwiftyChrono6ParserC", "NSTextCheckingResult"]
+- ["12SwiftyChrono6ParserC", "OptionType"]
+- !private ["12SwiftyChrono6ParserC", "PATTERN"]
+- ["12SwiftyChrono6ParserC", "ParsedResult"]
+- ["12SwiftyChrono6ParserC", "String"]
+- ["12SwiftyChrono6ParserC", ""]
+- ["12SwiftyChrono6ParserC", "extract"]
+- ["12SwiftyChrono6ParserC", "init"]
+- ["12SwiftyChrono6ParserC", "language"]
+- !private ["12SwiftyChrono6ParserC", "matchTextAndIndex"]
+- ["12SwiftyChrono6ParserC", "pattern"]
+- !private ["12SwiftyChrono6ParserC", "timeMatch"]
+- !private ["Sk", "morning"]
+- !private ["Sn", "morning"]
+- !private ["SX", "morning"]
+- !private ["Sm", "count"]
+- !private ["Sm", "hasPrefix"]
+- !private ["Sm", "hasSuffix"]
+- !private ["Sm", "lowercased"]
+- !private ["Sm", "substring"]
+- !private ["Sm", "trimmed"]
+- !private ["SY", "morning"]
+- !private ["10Foundation20ReferenceConvertibleP", "day"]
+- !private ["ST", "count"]
+- !private ["ST", "hasPrefix"]
+- !private ["ST", "hasSuffix"]
+- !private ["ST", "lowercased"]
+- !private ["ST", "morning"]
+- !private ["ST", "subscript"]
+- !private ["ST", "substring"]
+- !private ["ST", "trimmed"]
+- !private ["SS", "count"]
+- !private ["SS", "hasPrefix"]
+- !private ["SS", "hasSuffix"]
+- !private ["SS", "lowercased"]
+- !private ["SS", "substring"]
+- !private ["SS", "trimmed"]
+- ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["Sy", "count"]
+- !private ["Sy", "hasPrefix"]
+- !private ["Sy", "hasSuffix"]
+- !private ["Sy", "lowercased"]
+- !private ["Sy", "substring"]
+- !private ["Sy", "trimmed"]
+- !private ["12SwiftyChrono7TagUnitO", "deMorgenTimeParser"]
+- !private ["12SwiftyChrono7TagUnitO", "deinit"]
+- ["s16TextOutputStreamP", "appendInterpolation"]
+- ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "count"]
+- !private ["s16TextOutputStreamP", "hasPrefix"]
+- !private ["s16TextOutputStreamP", "hasSuffix"]
+- !private ["s16TextOutputStreamP", "lowercased"]
+- !private ["s16TextOutputStreamP", "substring"]
+- !private ["s16TextOutputStreamP", "trimmed"]
+- !private ["s20TextOutputStreamableP", "count"]
+- !private ["s20TextOutputStreamableP", "hasPrefix"]
+- !private ["s20TextOutputStreamableP", "hasSuffix"]
+- !private ["s20TextOutputStreamableP", "lowercased"]
+- !private ["s20TextOutputStreamableP", "substring"]
+- !private ["s20TextOutputStreamableP", "trimmed"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "count"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "day"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "hasPrefix"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "hasSuffix"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "lowercased"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "substring"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "trimmed"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "count"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "hasPrefix"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "hasSuffix"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "lowercased"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "substring"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "trimmed"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "count"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "hasPrefix"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "hasSuffix"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "lowercased"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "substring"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "trimmed"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "count"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "hasPrefix"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "hasSuffix"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "lowercased"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "substring"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "trimmed"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "hasPrefix"]
+- !private ["s19_HasContiguousBytesP", "hasSuffix"]
+- !private ["s19_HasContiguousBytesP", "lowercased"]
+- !private ["s19_HasContiguousBytesP", "substring"]
+- !private ["s19_HasContiguousBytesP", "trimmed"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "hasPrefix"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "hasSuffix"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "lowercased"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "substring"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "trimmed"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "count"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hasPrefix"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hasSuffix"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lowercased"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "string"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "substring"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "trimmed"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "count"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "hasPrefix"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "hasSuffix"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "lowercased"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "string"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "substring"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "trimmed"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "day"]
+- !private ["s21_ObjectiveCBridgeableP", "hasPrefix"]
+- !private ["s21_ObjectiveCBridgeableP", "hasSuffix"]
+- !private ["s21_ObjectiveCBridgeableP", "lowercased"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "substring"]
+- !private ["s21_ObjectiveCBridgeableP", "trimmed"]
+depends-nominal:
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "12SwiftyChrono13ComponentUnitO"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "12SwiftyChrono18DEMorgenTimeParserC"
+- !private "10Foundation4DateV"
+- !private "Se"
+- "s26DefaultStringInterpolationV"
+- !private "SD"
+- !private "SE"
+- !private "SQ"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SH"
+- !private "SD5IndexV"
+- !private "12SwiftyChrono8LanguageO"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "So20NSTextCheckingResultC"
+- "12SwiftyChrono10OptionTypeO"
+- !private "12SwiftyChrono16ParsedComponentsV"
+- !private "12SwiftyChrono12ParsedResultV"
+- "12SwiftyChrono6ParserC"
+- !private "Sk"
+- !private "Sn"
+- !private "SX"
+- !private "Sm"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "ST"
+- !private "SS"
+- "s27StringInterpolationProtocolP"
+- !private "Sy"
+- !private "12SwiftyChrono7TagUnitO"
+- "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/harrisa/dev/apps/b.mobbing/chrono/SwiftyChrono/.build/x86_64-apple-macosx/debug/SwiftyChrono.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "3dd613d88a4638ac7664336bced27422"
